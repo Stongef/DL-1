@@ -19,3 +19,6 @@ Bulunan rakam sayısı: 11
 Tahmin: 23120205061
 Gerçek: 23120205061 | Doğru: 11/11 rakam (100%)
 Doğru bir tahmin gerçekleştirilmiştir. Test oranının %100 olmaması da overfittinge karşı iyi bir göstergedir.
+
+
+DLfoto.jpeg dosyasındaki görsel kodda çalıştırılarak denenmiştir.
