@@ -1,6 +1,6 @@
 # DL-1
 
-Training loss       : 0.0145
+Training loss       : 0.0145 /n
 Validation loss     : 0.0955
 Training accuracy   : 0.9949
 Validation accuracy : 0.9766
