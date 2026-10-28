@@ -10,4 +10,4 @@ Egitim suresi       : 197.4 sn
 
 Deney performansı: Bulunan rakam sayisi: 1
 Tahmin: 1
-Deney kötü performans vermiştir. Muhtemel bir dosyanın okunma problemi vardır.
+Deney kötü performans vermiştir. Muhtemel bir dosyanın okunma problemi vardır. Test verilerinden gelen sonucun ise iyi olduğunu söyleyebiliriz.
